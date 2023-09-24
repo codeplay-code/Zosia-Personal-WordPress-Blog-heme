@@ -4,3 +4,5 @@ A classic blog theme with plenty of flair.
 
 ![01_preview __large_preview](https://github.com/marcocodeplay/Zosia-Personal-WordPress-Blog-heme/assets/145067902/93fc2a93-e54c-487c-939e-adc4694c5422)
 
+https://github.com/marcocodeplay/Zosia-Personal-WordPress-Blog-heme/wiki
+
