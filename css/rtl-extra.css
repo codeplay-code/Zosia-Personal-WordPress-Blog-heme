@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/*
+Theme Name: Zosia
+Description: Additional RTL Styles
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.logo-below-nav .toggle-menu {
+  margin-left: 0;
+}
+.primary-menu ul li.menu-item-has-children > a .menu-label::after {
+  content: "\e811 ";
+}
+.toggle-menu  {
+  transform: scale(-1, 1);
+}
+.tfm-hero .slick-arrow::after {
+  content: "\e812";
+}
+.tfm-hero .slick-arrow.slick-next::after {
+  content: "\e811";
+}
+.tfm-gallery-format-slideshow .slick-arrow::after {
+  content: "\e812";
+}
+.tfm-gallery-format-slideshow .slick-arrow.slick-next::after {
+  content: "\e811";
+  left: calc(50% - 6px);
+}
+.entry-meta-comment-count::before {
+  margin-right: 5px;
+  margin-left: 0;
+}
+.read-more::after {
+  content: "\e811";
+}
+.entry-meta-read-time::before {
+  margin-right: 5px;
+  margin-left: 0;
+}
